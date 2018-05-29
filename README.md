@@ -4,6 +4,7 @@ To sort the Data the following sortings are implemented and are interswitched du
 2. Djikshtra
 3. customSort
 
+The input to the program is is checked on various sizes of data and the time complexity is analyzed on each of them.The input varies from 10 to 4000.
 
 
 
